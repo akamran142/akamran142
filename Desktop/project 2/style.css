@@ -1,0 +1,74 @@
+/* body  */
+body {
+  margin: 0%;
+  padding: 0%;
+  background-color: whitesmoke;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+/*  Main heading  */
+h1 {
+  background-color: rgb(238, 83, 72);
+  text-align: center;
+  margin: 2%;
+  padding: 2%;
+  color: white;
+}
+/* post section  */
+.post{
+    text-align: center;
+    padding:2%;
+}
+
+/* image  */
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  width: 500px;
+}
+/* post heading  */
+.post-heading {
+  text-align: center;
+}
+/* post description  */
+.post-description {
+  text-align: center;
+}
+/* see more link  */
+a {
+  display: inline;
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  
+}
+a:hover, a:active {
+    background-color: red;
+  }
+/* form  */
+.form {
+  display: block;
+  background-color: rgb(238, 83, 72);
+  text-align: center;
+  padding: 2%;
+  color: white;
+  
+}
+/* form-first-name and last-name */
+.name-field{
+    border-color: none;
+    margin: auto;
+    padding:0.5%;
+}
+/* radio button  */
+
+/* button */
+/* footer  */
+footer {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  
+}
